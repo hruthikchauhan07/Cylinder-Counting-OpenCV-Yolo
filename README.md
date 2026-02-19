@@ -3,7 +3,7 @@
 A computer vision solution to detect and count gas cylinders from a top-down video using **YOLOv8** (Object Detection) and **ByteTrack** (Object Tracking).
 
 ![Demo](https://drive.google.com/file/d/1aHMR0ELKbzbxjWzsOjZvxgKE9GO5xog_/view?usp=sharing) 
-*(Replace this with a GIF or image of your output if you upload it to GitHub)*
+
 
 ## 🚀 Features
 
@@ -17,7 +17,6 @@ A computer vision solution to detect and count gas cylinders from a top-down vid
 ## 📂 Project Structure
 
 *   `cylinder_counter_refined.py`: **Main Script.** The refined, standalone Python script for local execution.
-*   `Cylinder_Counting.ipynb`: Jupyter Notebook version (Local).
 *   `Cylinder_Counting_Colab.ipynb`: **Recommended.** Optimized notebook for Google Colab (handles GPU training & path fixes automatically).
 *   `requirements.txt`: Python dependencies.
 *   `Annotate Cyinders.v2i.yolov8.zip`: The dataset used for training/fine-tuning.

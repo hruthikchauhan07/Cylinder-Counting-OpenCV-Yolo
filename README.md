@@ -2,8 +2,10 @@
 
 A computer vision solution to detect and count gas cylinders from a top-down video using **YOLOv8** (Object Detection) and **ByteTrack** (Object Tracking).
 
-![Demo](https://drive.google.com/file/d/1aHMR0ELKbzbxjWzsOjZvxgKE9GO5xog_/view?usp=sharing) 
+## Project Output
 
+You can find the project output at the following link:
+[Project Output](https://drive.google.com/file/d/1aHMR0ELKbzbxjWzsOjZvxgKE9GO5xog_/view?usp=sharing)
 
 ## 🚀 Features
 
@@ -71,4 +73,4 @@ A computer vision solution to detect and count gas cylinders from a top-down vid
 
 ## 👤 Author
 
-[Your Name]
+[Hruthik M]

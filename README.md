@@ -5,7 +5,7 @@ A computer vision solution to detect and count gas cylinders from a top-down vid
 ## Project Output
 
 You can find the project output at the following link:
-[Project Output](https://drive.google.com/file/d/1aHMR0ELKbzbxjWzsOjZvxgKE9GO5xog_/view?usp=sharing)
+[Project Output](https://drive.google.com/file/d/1pQi74DQNRkitk535ZPZG9Tm6QJF_ITmc/view?usp=sharing)
 
 ## 🚀 Features
 
